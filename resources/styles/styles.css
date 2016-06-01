@@ -1,0 +1,57 @@
+h1 {
+  color: blue;
+}
+
+.selected {
+  color: #22bdf0;
+}
+
+.task-form {
+  margin-top: 80px;
+  margin-bottom: 80px;
+}
+
+.add-button {
+  margin-bottom: 10px;
+  margin-left: 10px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+}
+
+.filter {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.hide {
+  display: none;
+}
+.addKeg {
+  margin: 5px;
+}
+.floatRight {
+  float: right;
+}
+
+.keg-form input, label {
+  margin: 1px;
+  font-size:16px;
+}
+.keg-form h3 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.kegList p {
+  font-size: 15px;
+}
+
+.expensive, .highAlc {
+  color: red;
+}
+.inexpensive, .lowAlc {
+  color: green;
+}
+.moderate, .mediumAlc {
+  color: orange;
+}
